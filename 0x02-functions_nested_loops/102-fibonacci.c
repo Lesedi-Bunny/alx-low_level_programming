@@ -1,6 +1,6 @@
-#include "main.h"
+#include <stdio.h>
 /**
- * main-
+ * main -generates 50 Fibonacci numbers
  * Return: 0
 **/
 int main(void)

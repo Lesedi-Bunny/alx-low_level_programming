@@ -1,6 +1,6 @@
-#include "main.h"
+#include <stdio.h>
 /**
- * main -
+ * main - generates multiples of natural numbers below 10
  * Return: 0
 **/
 int main(void)
